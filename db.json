@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "employees": [
+    {
+      "firstName": "Thahir",
+      "lastName": "Gajula",
+      "email": "sthahir080@gmail.com",
+      "dob": "1999-07-10T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduate",
+      "company": "Varccas",
+      "experiance": 1,
+      "package": 50,
+      "id": 1
+    },
+    {
+      "firstName": "Ashok",
+      "lastName": "Kumar",
+      "email": "ashok38568@gmail.com",
+      "dob": "2001-04-30T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduate",
+      "company": "varcas",
+      "experiance": 3,
+      "package": 30,
+      "id": 2
+    },
+    {
+      "firstName": "Renuka",
+      "lastName": "Patangay",
+      "email": "renuka@gmail.com",
+      "dob": "2000-11-22T18:30:00.000Z",
+      "gender": "Female",
+      "education": "Graduate",
+      "company": "tech Arion",
+      "experiance": 1,
+      "package": 12,
+      "id": 3
+    }
+  ]
+}
